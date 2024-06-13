@@ -1,0 +1,94 @@
+2022-06-16 18:38:04,766 - <ipython-input-1-0c30940b5de1>[line:152] - INFO: 程式開始
+2022-06-16 18:38:04,766 - <ipython-input-1-0c30940b5de1>[line:154] - INFO: 讀取UserList.csv
+2022-06-16 18:38:04,767 - <ipython-input-1-0c30940b5de1>[line:52] - INFO: 讀取UserList.csv成功
+2022-06-16 18:38:04,775 - <ipython-input-1-0c30940b5de1>[line:158] - INFO: 刪除授權開始
+2022-06-16 18:38:09,359 - <ipython-input-1-0c30940b5de1>[line:86] - INFO: OAuth2.0成功
+2022-06-16 18:38:10,413 - <ipython-input-1-0c30940b5de1>[line:97] - INFO: licensing服務建立成功
+2022-06-16 18:38:10,413 - <ipython-input-1-0c30940b5de1>[line:110] - INFO: emailID               狀態     備註                  
+
+2022-06-16 18:38:12,067 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A@2center.xyz         完成
+
+2022-06-16 18:38:14,124 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: B@2center.xyz         完成
+
+2022-06-16 18:38:15,823 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: C@2center.xyz         完成
+
+2022-06-16 18:38:17,788 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: D@2center.xyz         完成
+
+2022-06-16 18:38:19,550 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: E@2center.xyz         完成
+
+2022-06-16 18:38:20,995 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: F@2center.xyz         完成
+
+2022-06-16 18:38:22,540 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: G@2center.xyz         完成
+
+2022-06-16 18:38:24,054 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A1@2center.xyz        完成
+
+2022-06-16 18:38:25,523 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A2@2center.xyz        完成
+
+2022-06-16 18:38:27,073 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A3@2center.xyz        完成
+
+2022-06-16 18:38:28,563 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A4@2center.xyz        完成
+
+2022-06-16 18:38:30,238 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A5@2center.xyz        完成
+
+2022-06-16 18:38:31,132 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A6@2center.xyz        完成
+
+2022-06-16 18:38:32,452 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A7@2center.xyz        完成
+
+2022-06-16 18:38:34,715 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A8@2center.xyz        完成
+
+2022-06-16 18:38:36,185 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A9@2center.xyz        完成
+
+2022-06-16 18:38:37,882 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A10@2center.xyz       完成
+
+2022-06-16 18:38:38,822 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A11@2center.xyz       完成
+
+2022-06-16 18:38:40,797 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A12@2center.xyz       完成
+
+2022-06-16 18:38:41,353 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A13@2center.xyz       完成
+
+2022-06-16 18:38:43,129 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A14@2center.xyz       完成
+
+2022-06-16 18:38:43,632 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A15@2center.xyz       完成
+
+2022-06-16 18:38:44,274 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A16@2center.xyz       完成
+
+2022-06-16 18:38:45,707 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A17@2center.xyz       完成
+
+2022-06-16 18:38:46,294 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A18@2center.xyz       完成
+
+2022-06-16 18:38:47,906 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A19@2center.xyz       完成
+
+2022-06-16 18:38:49,321 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A20@2center.xyz       完成
+
+2022-06-16 18:38:49,853 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A21@2center.xyz       完成
+
+2022-06-16 18:38:50,467 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A22@2center.xyz       完成
+
+2022-06-16 18:38:52,627 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A23@2center.xyz       完成
+
+2022-06-16 18:38:53,221 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A24@2center.xyz       完成
+
+2022-06-16 18:38:53,760 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A25@2center.xyz       完成
+
+2022-06-16 18:38:55,375 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A26@2center.xyz       完成
+
+2022-06-16 18:38:56,850 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A27@2center.xyz       完成
+
+2022-06-16 18:38:58,062 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A28@2center.xyz       完成
+
+2022-06-16 18:38:59,380 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A29@2center.xyz       完成
+
+2022-06-16 18:39:00,735 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A30@2center.xyz       完成
+
+2022-06-16 18:39:02,273 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A31@2center.xyz       完成
+
+2022-06-16 18:39:03,016 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A32@2center.xyz       完成
+
+2022-06-16 18:39:04,848 - <ipython-input-1-0c30940b5de1>[line:120] - INFO: A33@2center.xyz       完成
+
+2022-06-16 18:39:04,852 - <ipython-input-1-0c30940b5de1>[line:161] - INFO: 移除token.json
+2022-06-16 18:39:04,854 - <ipython-input-1-0c30940b5de1>[line:166] - INFO: 總個數: 40  完成數:40  未完成數0 
+
+2022-06-16 18:39:04,854 - <ipython-input-1-0c30940b5de1>[line:167] - INFO: 
+*** 處理完畢：  帳戶成功， 40 帳戶失敗0
+2022-06-16 18:39:04,855 - <ipython-input-1-0c30940b5de1>[line:168] - INFO: 程式結束
