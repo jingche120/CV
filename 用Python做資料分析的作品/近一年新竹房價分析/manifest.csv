@@ -1,0 +1,5 @@
+name,schema,description
+o_lvr_land_a.csv,schema-main.csv,新竹市不動產買賣
+o_lvr_land_a_build.csv,schema-build.csv,新竹市建物不動產買賣
+o_lvr_land_a_park.csv,schema-park.csv,新竹市停車場不動產買賣
+o_lvr_land_a_land.csv,schema-land.csv,新竹市土地不動產買賣
